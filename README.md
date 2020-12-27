@@ -1,3 +1,3 @@
-# My selection of notes for Linux management and development.
+## Linux Notes & Command Snippets
 
 * [Linux Wiki](Wiki)
