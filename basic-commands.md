@@ -1,9 +1,4 @@
-## Add a value to env variables:
-```
-(echo; echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"'
- eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
- ```
-
+## [Most used commands](https://www.digitalocean.com/community/tutorials/linux-commands)
 * ls - lists directories
 * pwd - Print working directory command in Linux
 * cd - Linux command to navigate through directories
@@ -54,3 +49,9 @@
 * top - View active processes live with their system usage
 * useradd and usermod - Add new user or change existing users data
 * passwd - Create or update passwords for existing users
+
+## Add a value to env variables:
+```
+(echo; echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"'
+ eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+```
